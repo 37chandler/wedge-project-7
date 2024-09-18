@@ -1,1 +1,1 @@
-# wedge-project
+# Wedge Project
